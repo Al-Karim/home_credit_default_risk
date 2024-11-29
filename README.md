@@ -1,5 +1,4 @@
-# home_credit_default_risk
- 
+
 # Home Credit Default Risk
 
 ## Описание проекта
