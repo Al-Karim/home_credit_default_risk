@@ -1,2 +1,6 @@
 
 *.csv
+catboost_info/
+catboost_training.log
+catboost_error.log
+catboost_test/
